@@ -1,4 +1,4 @@
-package kr.nyamnyam.controller;
+package kr.nyamnyam_kr.controller;
 
 import kr.nyamnyam_kr.model.domain.UserModel;
 import kr.nyamnyam_kr.model.entity.UserEntity;

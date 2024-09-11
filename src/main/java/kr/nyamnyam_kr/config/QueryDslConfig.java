@@ -1,4 +1,4 @@
-package kr.nyamnyam.config;
+package kr.nyamnyam_kr.config;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import jakarta.persistence.EntityManager;

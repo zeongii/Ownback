@@ -1,4 +1,4 @@
-package kr.nyamnyam.config;
+package kr.nyamnyam_kr.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

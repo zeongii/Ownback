@@ -1,6 +1,5 @@
 package kr.nyamnyam_kr.model.domain;
 
-import jakarta.persistence.Column;
 import lombok.Data;
 import org.springframework.stereotype.Component;
 

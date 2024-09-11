@@ -1,4 +1,4 @@
-package kr.nyamnyam.service.impl;
+package kr.nyamnyam_kr.service.impl;
 
 import kr.nyamnyam_kr.model.domain.UserModel;
 import kr.nyamnyam_kr.model.entity.UserEntity;
