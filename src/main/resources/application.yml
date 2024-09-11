@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: nyamnyam
+  datasource:
+    url: jdbc:mysql://localhost:3306/nyamnyamdb
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
